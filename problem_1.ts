@@ -5,3 +5,5 @@ const LogFunction = (param1: string, param2: number = 3): void => {
 };
 
 LogFunction("I love my country", 10);
+LogFunction("I love my BD");
+

@@ -1,0 +1,26 @@
+{
+  "name": "assignmet-1",
+  "version": "1.0.0",
+  "description": "# 1 : What is TypeScript, and how is it different from JavaScript?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn --transpile-only problem_2.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programming-Hero-Web-Course4/l2tsa1-basic-typescript-Ahsan-Ullah1871.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programming-Hero-Web-Course4/l2tsa1-basic-typescript-Ahsan-Ullah1871/issues"
+  },
+  "homepage": "https://github.com/Programming-Hero-Web-Course4/l2tsa1-basic-typescript-Ahsan-Ullah1871#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}

@@ -2,4 +2,6 @@ const GenericReverseArray = <T>(...params: T[]): T[] => {
 	return params.reverse();
 };
 
-GenericReverseArray("Hello", "World");
+//example
+let resp = GenericReverseArray("Hello", "World");
+console.log(resp);

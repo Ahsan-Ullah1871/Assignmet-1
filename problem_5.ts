@@ -6,3 +6,6 @@ const TypeChecker = (param: unknown): void => {
 	}
 };
 
+TypeChecker("Hello world");
+TypeChecker(123);
+

@@ -1,3 +1,4 @@
+// person
 class Person {
 	constructor(private name: string, private age: number) {}
 
@@ -6,6 +7,7 @@ class Person {
 	}
 }
 
+// Student
 class Student extends Person {
 	constructor(name: string, age: number, private grade: string) {
 		super(name, age);
